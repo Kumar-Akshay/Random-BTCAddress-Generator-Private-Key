@@ -1,0 +1,3 @@
+Sender@gamail.com
+Reciver@gmail.com
+SenderPassword
