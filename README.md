@@ -1,6 +1,6 @@
 BTCAddressTask
 
-Some of the ScreenShots
+ScreenShots
 
 ![First](https://github.com/Kumar-Akshay/Random-BTCAddress-Generator-Private-Key/blob/master/1.png)
 
